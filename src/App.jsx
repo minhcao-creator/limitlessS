@@ -1,6 +1,6 @@
 import React from 'react'
 import Home from './pages/home'
-import IdeaFulfill from './pages/ideafulfill'
+import IdeaFulfill from './pages/IdeaFulfill'
 import TheNewMoney from './pages/theNewMoney'
 import EnhancePro from './pages/enhancepro'
 import * as ReactDOM from "react-dom/client";
