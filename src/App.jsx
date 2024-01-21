@@ -44,6 +44,6 @@ const App = () => (
     <Route path="/ideafulfill" element={<IdeaFulfill/>}/>
     <Route path="/" element={<Home/>}/>
   </Routes>
-  )
+)
 
 export default App
